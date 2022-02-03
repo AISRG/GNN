@@ -1,2 +1,2 @@
 # GNN
-Repository for Graph-based Learning related topics
+Repository for Graph-based Learning related topics.
